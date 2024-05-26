@@ -27,7 +27,7 @@
 }
 .profile-photo {
   width: 200px;
-  height: 350px;
+  height: 250px;
   border-radius: 3px;
   overflow: hidden;
   border: 3px solid #0e0e0e;
@@ -40,8 +40,8 @@
   height:80px;
   border-top:7px solid #fff;
   border-left:7px solid #fff;
-  top:-40px;
-  left:-30px;
+  top:130px;
+  left:57rem;
 }
 .profile-photo::after{
   content:'';
@@ -50,8 +50,8 @@
   height:80px;
   border-bottom:7px solid #fff;
   border-right:7px solid #fff;
-  bottom:-40px;
-  right:-30px;
+  bottom:130px;
+  right:120px;
 }
 img {
   max-width: 100%;
