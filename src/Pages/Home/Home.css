@@ -26,11 +26,11 @@
   align-items: center;
 }
 .profile-photo {
-  width: 300px;
-  height: 300px;
-  border-radius: 50%;
+  width: 200px;
+  height: 350px;
+  border-radius: 3px;
   overflow: hidden;
-  border: 15px solid #0e0e0e;
+  border: 3px solid #0e0e0e;
   box-shadow:0 0 2px 0 rgba(0, 0, 0, .06), 0 4px 16px 0 rgba(0, 0, 0, .12);
 }
 .profile-photo::before{
