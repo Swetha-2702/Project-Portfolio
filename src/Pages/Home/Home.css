@@ -33,6 +33,26 @@
   border: 15px solid #0e0e0e;
   box-shadow:0 0 2px 0 rgba(0, 0, 0, .06), 0 4px 16px 0 rgba(0, 0, 0, .12);
 }
+.profile-photo::before{
+  content:'';
+  position:absolute;
+  width:80px;
+  height:80px;
+  border-top:7px solid #fff;
+  border-left:7px solid #fff;
+  top:-40px;
+  left:-30px;
+}
+.profile-photo::after{
+  content:'';
+  position:absolute;
+  width:80px;
+  height:80px;
+  border-bottom:7px solid #fff;
+  border-right:7px solid #fff;
+  bottom:-40px;
+  right:-30px;
+}
 img {
   max-width: 100%;
 }
