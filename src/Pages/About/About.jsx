@@ -49,7 +49,7 @@ const About = () => {
                         <ul>
                           <li>
                             <label>Name: </label>
-                            <span>Lithiksha.A.S</span>
+                            <span>Lithiksha A S</span>
                           </li>
                           <li>
                             <label>Birthday: </label>
