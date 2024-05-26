@@ -40,7 +40,7 @@
   height:80px;
   border-top:7px solid #fff;
   border-left:7px solid #fff;
-  top:130px;
+  top:150px;
   left:57rem;
 }
 .profile-photo::after{
@@ -50,7 +50,7 @@
   height:80px;
   border-bottom:7px solid #fff;
   border-right:7px solid #fff;
-  bottom:130px;
+  bottom:150px;
   right:120px;
 }
 img {
